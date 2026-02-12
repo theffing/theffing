@@ -1,6 +1,6 @@
 ## About me 
 
-I'm a Data Engineer, proactive team member, and tattoo artist. I recently graduated from the University of California, Santa Cruz; and am pursuing a Masters in Data Science at the Illinois Institute of Technology. Currently, I am a Software Engineer working for UmiUni Hedge Fund, a team developing fintech brokerage models. Recently, and going forward, I have been both working and contributing to Deepiri, an engineering firm pioneering ML and AI tools. My work consists of collaborating with developers from all over the world and building production scale automation tools and frameworks.
+I'm a Data Engineer, proactive team member, and tattoo artist. I recently graduated from the University of California, Santa Cruz; and am pursuing a Masters in Data Science at the Illinois Institute of Technology. Currently, I am a Software Engineer working for UmiUni Hedge Fund, a team developing fintech brokerage models. Recently, and going forward, I have been both working for and contributing to Deepiri, an engineering research firm pioneering ML and AI tools. My work consists of collaborating with developers from all over the world and building production scale automation tools and frameworks.
 
 ## Education
 Illinois Institute of Technology, Masters of Data Science
