@@ -1,5 +1,3 @@
-![Profile Logo](https://raw.githubusercontent.com/theffing/theffing/main/imgs/spiky.png)
-
 ## About me 
 
 I'm a Data Engineer, proactive team member, and tattoo artist. I recently graduated from the University of California, Santa Cruz; and am pursuing a Masters in Data Science at the Illinois Institute of Technology. Currently, I am a Software Engineer working for UmiUni Hedge Fund, a team developing fintech brokerage models. Recently, and going forward, I have been both working and contributing to Deepiri, an engineering firm pioneering ML and AI tools. My work consists of collaborating with developers from all over the world and building production scale automation tools and frameworks.
@@ -61,3 +59,5 @@ Graduated June 2025
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+
+![Profile Logo](https://raw.githubusercontent.com/theffing/theffing/main/imgs/spiky.png)
