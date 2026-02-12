@@ -1,4 +1,4 @@
-![Profile Logo](https://raw.githubusercontent.com/theffing/theffing/imgs/spiky.png)
+![Profile Logo](https://raw.githubusercontent.com/theffing/theffing/main/imgs/spiky.png)
 
 ## About me 
 
