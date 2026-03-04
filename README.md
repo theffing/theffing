@@ -4,7 +4,7 @@ I'm a Data Engineer, proactive team member, and tattoo artist. I recently gradua
 
 ## Education
 Illinois Institute of Technology, Masters of Data Science
-Graduation October 2026
+Graduation December 2026
 
 University of California, Santa Cruz, Bachelors of Computer Science
 Graduated June 2025
